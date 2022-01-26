@@ -1,0 +1,10 @@
+{"models":[
+    { "model":"paard"      , "exposure":"1" , "title":"Sculptuur" , "description":"Keramische afbeelding van paard of koe. (Onbekend, 20e eeuw (?))"},
+    { "model":"bijl"       , "exposure":"2" , "title":"Neolitische bijl" , "description":"Neolitische bijl van vuursteen (Belgie, Neolithicum)"},
+    { "model":"grafplaat"  , "exposure":"1" , "title":"Grafplaat WO I" , "description":"Grafplaat van soldaten uit de Eerste Wereldoorlog (Belgie, jaren 30)"},
+    { "model":"boekensteun", "exposure":"1" , "title":"Boekensteun" , "description":"Boekensteun van gips, die een lezende monnik voorstelt (mid 20e eeuw)"},
+    { "model":"jug"        , "exposure":"1" , "title":"Steengoed kannetje" , "description":"Steengoed kannetje uit Raeren(D) 15e eeuw"},
+    { "model":"misbaksel"  , "exposure":"1" , "title":"Steengoed misbaksel" , "description":"Steengoed misbaksel kannetje uit Raeren(D) 15e eeuw"}
+	
+]}
+
